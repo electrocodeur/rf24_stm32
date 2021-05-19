@@ -1,2 +1,4 @@
-# rf24_stm32
-  Projet : NRF24l01 avec STM32
+# NRF24L01 avec STM32
+Dans ce dossier vous trouvez le cablage mais aussi le programme.
+
+Vous avez seulement a brancher comme moi et téléversez le programme dans la carte arduino.
